@@ -26,5 +26,13 @@ lista de tarefas
 - [ x] markdown
 - [ x] markdown
 - [ ] markdown
-markdown
-markdown
+
+
+algo | algo2 | algo3
+---|---|---
+1|ele|8,3
+
+´document.getElementById()´
+```
+ele jfjssdfs ksdff
+```
